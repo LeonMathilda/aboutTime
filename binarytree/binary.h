@@ -10,5 +10,5 @@
 #define __binarytree__binary__
 
 #include <iostream>
-
+#define b 12
 #endif /* defined(__binarytree__binary__) */

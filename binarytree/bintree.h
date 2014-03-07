@@ -33,7 +33,7 @@ public:
     void set_right(binary_tree_node* new_right){right_field = new_right;}
     const Item& data()const{return data_field;}
     const binary_tree_node* left()const {return left_field;}
-    const binary_tree_node* right(){}
+    const binary_tree_node* right()const{return right_field;}
     
     
 private:

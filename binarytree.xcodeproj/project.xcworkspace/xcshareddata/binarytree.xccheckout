@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DB02A510-D366-458C-9C20-F0B66D003FEA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>binarytree</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>403AFCE9-F272-4680-A1EA-6BA6D27A0AA7</key>
+		<string>https://github.com/LeonMathilda/aboutTime.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>binarytree.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>403AFCE9-F272-4680-A1EA-6BA6D27A0AA7</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/LeonMathilda/aboutTime.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>403AFCE9-F272-4680-A1EA-6BA6D27A0AA7</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>403AFCE9-F272-4680-A1EA-6BA6D27A0AA7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>aboutTime</string>
+		</dict>
+	</array>
+</dict>
+</plist>

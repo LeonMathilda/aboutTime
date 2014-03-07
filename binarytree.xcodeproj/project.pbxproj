@@ -10,6 +10,7 @@
 		35AEB2A718C7A66600DE35E4 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 35AEB2A618C7A66600DE35E4 /* main.cpp */; };
 		35AEB2A918C7A66600DE35E4 /* binarytree.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 35AEB2A818C7A66600DE35E4 /* binarytree.1 */; };
 		35AEB2B118C7A69500DE35E4 /* bintree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 35AEB2AF18C7A69500DE35E4 /* bintree.cpp */; };
+		35D0B3E918CA71E0001C4CC4 /* binary.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 35D0B3E718CA71E0001C4CC4 /* binary.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +32,8 @@
 		35AEB2A818C7A66600DE35E4 /* binarytree.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = binarytree.1; sourceTree = "<group>"; };
 		35AEB2AF18C7A69500DE35E4 /* bintree.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = bintree.cpp; sourceTree = "<group>"; };
 		35AEB2B018C7A69500DE35E4 /* bintree.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = bintree.h; sourceTree = "<group>"; };
+		35D0B3E718CA71E0001C4CC4 /* binary.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = binary.cpp; sourceTree = "<group>"; };
+		35D0B3E818CA71E0001C4CC4 /* binary.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = binary.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,8 @@
 				35AEB2A818C7A66600DE35E4 /* binarytree.1 */,
 				35AEB2B018C7A69500DE35E4 /* bintree.h */,
 				35AEB2AF18C7A69500DE35E4 /* bintree.cpp */,
+				35D0B3E718CA71E0001C4CC4 /* binary.cpp */,
+				35D0B3E818CA71E0001C4CC4 /* binary.h */,
 			);
 			path = binarytree;
 			sourceTree = "<group>";
@@ -123,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				35AEB2A718C7A66600DE35E4 /* main.cpp in Sources */,
+				35D0B3E918CA71E0001C4CC4 /* binary.cpp in Sources */,
 				35AEB2B118C7A69500DE35E4 /* bintree.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -231,6 +237,7 @@
 				35AEB2AE18C7A66600DE35E4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
